@@ -1,6 +1,6 @@
 # Práctica 2 · Autoencoders (AA2)
 
-Eliminación de ruido y superresolución sobre **MNIST** con autoencoders, partiendo del código de clase (`codigo_clase/`).
+Eliminación de ruido y superresolución sobre **MNIST** con autoencoders, partiendo del código visto en clase.
 
 **Entrega:** domingo 6 de diciembre de 2026.
 
@@ -49,7 +49,7 @@ Toma como plantilla `02_ruido_niveles.ipynb`: abre el notebook y copia sus celda
 
 ### `01_ruido_basico.ipynb` (nivel básico de ruido)
 1. Copia las celdas de imports y carga de datos del 02.
-2. Copia `anadir_ruido` y las dos clases de clase: `AutoencoderDenso` (de `codigo_clase/..._01_Densos`) y `AutoencoderCNN`.
+2. Copia `anadir_ruido` y las dos clases de clase: `AutoencoderDenso` (del notebook de clase de autoencoders densos) y `AutoencoderCNN`.
 3. Entrena **los dos** con `sigma = 0.5`: entrada = imagen con ruido, objetivo = original (como en `entrenar` del 02).
 4. Calcula el MSE de test de cada uno con `evaluar` y muestra la figura de 3 filas de cada uno con `mostrar_resultados`.
 5. En una celda Markdown al final, escribe qué modelo da menos MSE. Como referencia, Daniel obtuvo en GPU unos **0.016 con el denso y 0.0107 con el convolucional**; ese es el resultado que justifica usar el convolucional en el resto.
