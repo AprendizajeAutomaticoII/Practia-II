@@ -32,7 +32,7 @@ Las ejecuciones con más entrenamientos (02 y 04) van en la GPU (RTX 4050). Las 
 
 ### Daniel (GPU)
 - [x] **Lun 23 nov:** montar el repositorio, el README y `02_ruido_niveles.ipynb` ejecutado.
-- [ ] **Sáb 28 nov (tarde):** `04_superres_otras.ipynb` ejecutado. _(Notebook escrito y comprobado el 27 nov; falta ejecutarlo en la GPU.)_
+- [x] **Sáb 28 nov (tarde):** `04_superres_otras.ipynb` ejecutado.
 - [ ] **Lun 30 nov (prácticas AA2):** revisar con Amado el `01` y unificar criterios.
 - [ ] **Mar 1 dic (tarde):** revisar el `03` de Amado, escribir las conclusiones de 02 y 04 y completar este README.
 - [ ] **Vie 4 dic:** reiniciar y ejecutar todos los notebooks de principio a fin, y preparar el guion de defensa.
