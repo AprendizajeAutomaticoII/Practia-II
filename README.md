@@ -32,15 +32,15 @@ Las ejecuciones con más entrenamientos (02 y 04) van en la GPU (RTX 4050). Las 
 
 ### Daniel (GPU)
 - [x] **Lun 23 nov:** montar el repositorio, el README y `02_ruido_niveles.ipynb` ejecutado.
-- [ ] **Sáb 28 nov (tarde):** `04_superres_otras.ipynb` ejecutado.
+- [ ] **Sáb 28 nov (tarde):** `04_superres_otras.ipynb` ejecutado. _(Notebook escrito y comprobado el 27 nov; falta ejecutarlo en la GPU.)_
 - [ ] **Lun 30 nov (prácticas AA2):** revisar con Amado el `01` y unificar criterios.
 - [ ] **Mar 1 dic (tarde):** revisar el `03` de Amado, escribir las conclusiones de 02 y 04 y completar este README.
 - [ ] **Vie 4 dic:** reiniciar y ejecutar todos los notebooks de principio a fin, y preparar el guion de defensa.
 - [ ] **Sáb 5 dic:** entregar (un día antes del plazo).
 
 ### Amado (CPU)
-- [ ] **Antes del lun 30 nov:** `01_ruido_basico.ipynb` ejecutado, con la conclusión de que el convolucional es mejor que el denso.
-- [ ] **Antes del mar 1 dic:** `03_superres_basico.ipynb` ejecutado (14→28 y 7→28).
+- [x] **Antes del lun 30 nov:** `01_ruido_basico.ipynb` ejecutado, con la conclusión de que el convolucional es mejor que el denso.
+- [x] **Antes del mar 1 dic:** `03_superres_basico.ipynb` ejecutado (14→28 y 7→28).
 - [ ] **Vie 4 dic:** leer y entender el 02 y el 04 (en la defensa os pueden preguntar por cualquier parte).
 
 ## Instrucciones para Amado
